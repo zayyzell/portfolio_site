@@ -1,0 +1,63 @@
+body {
+  /*background-image: url("http://cdn01.wallconvert.com/_media/wp_400x250/1/2/18291.jpg");*/
+  background-repeat: no-repeat;
+  background-color: #646464;
+  background-size: cover;
+}
+
+li {
+  list-style: none;
+  padding: 0.25em;
+  padding-left: none;
+  font-size: 1.5em;
+}
+
+img {
+
+  border-radius: 100em;
+  margin-top: 15em;
+  margin-left: 3em;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+/*h1 {
+  font-size: 3em;
+  font-family: monospace;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}*/
+
+.main_contents {
+  box-sizing: border-box;
+  border-radius: 100em;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100em;
+  height: 60em;
+  border: none;
+  background-color: #FAFAEB;
+  box-shadow: 10px 5px 5px black;
+}
+
+.center_contact {
+  text-align: center;
+}
+
+.center_all {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-family: monospace;
+}
+
+.center_all h1 {
+  font-size: 3em;
+}
+
+/* TEXT */
